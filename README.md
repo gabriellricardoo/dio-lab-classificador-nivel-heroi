@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 # 1️⃣ Desafio Classificador de nível de Herói
  
-Explorar todos os conceitos explorados sobre Variáveis, Operadores, Laços de repetição e Estruturas de decisões.
+Explorar todos os conceitos abordados sobre Variáveis, Operadores, Laços de repetição e Estruturas de decisões.
 
 **O Que deveria ser utilizado**
 
@@ -43,7 +43,7 @@ Explorar todos os conceitos explorados sobre Variáveis, Operadores, Laços de r
 
 ## Objetivo
 
-Criar uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
+Criar uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilizar uma estrutura de decisão para apresentar alguma das mensagens abaixo:
 
 Se XP for menor do que 1.000 = Ferro<br>
 Se XP for entre 1.001 e 2.000 = Bronze<br>
@@ -59,7 +59,6 @@ Se XP for maior ou igual a 10.001 = Radiante<br>
 Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
 
-Layout feito com ♥ by GR
 - [Acesse o projeto finalizado, online](https://gabriellricardoo.github.io/dio-lab-classificador-nivel-heroi/)
 
 ## :memo: Licença
