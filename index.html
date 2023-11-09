@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap" rel="stylesheet"/>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./scr/css/style.css"/>
+    <title>Classificador de Nível de Herói</title>
+</head>
+<body>
+    <div id="container">
+        <h1 id="titulo">Classificador de Nível de Herói</h1>
+        <div id="corpo">
+            <p>Digite as informações solicitadas abaixo:</p>
+            <form action="" id="form">
+                <label for="nomeHeroi">Nome do Herói</label>
+                <input type="text" name="nomeHeroi" required="required" id="nomeHeroi" class="caixa">
+                <label for="xpHeroi">Experiência (XP)</label>
+                <input type="number" name="xpHeroi" required="required" id="xpHeroi" class="caixa">
+                <input type="submit" value="Consultar" id="enviar">
+            </form>
+            <div id="resultado">
+                <p></p>
+            </div>
+        </div>
+    </div>
+    <script src="./scr/js/script.js"></script>
+</body>
+</html>
